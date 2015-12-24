@@ -8,7 +8,7 @@ import lxml.html
 import datetime
 
 
-SITEPAGE =   'http://albopretorio.comune.lugo.ra.it/?ente=fusignano'
+SITEPAGE =   'http://albopretorio.comune.lugo.ra.it/?ente=lugo'
 URL_ALLEGATI = 'http://albopretorio.comune.lugo.ra.it/'
 #ENTE_ALLEGATI = '1' #1 Unione 0 Comune di Lugo
 
